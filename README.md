@@ -1,8 +1,7 @@
 # CMPE351Project
 Group 3: Sentiment Meets Stability - Enhancing Minimum Volatility Investing Strategies with Financial News Sentiment Analysis
 
-Andrew Sutcliffe (20226770), Eryn Vaid (20235330),
-Kevin Liang (20221667), Alexandra Cramarossa (20213311)
+Andrew Sutcliffe, Eryn Vaid, Kevin Liang, Alexandra Cramarossa
 
 **Abstract**—This project investigates the impact of financial news sentiment on market volatility, and explores the potential to enhance
 current low-volatility investment strategies through the integration of news sentiment. Using the FNSPID financial dataset and volatility
